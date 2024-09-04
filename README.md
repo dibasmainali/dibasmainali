@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibasmainali" alt="dibasmainali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dibasmainali" target="blank"><img src="https://img.shields.io/twitter/follow/dibasmainali?logo=twitter&style=for-the-badge" alt="dibasmainali" /></a> </p>
-<img align="right" width="300"src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<img align="right" width="400"src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 
 
